@@ -1,6 +1,6 @@
 {
   "name": "bmaplib.drawingManager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library of Baidu Map JS API",
   "main": "index.js",
   "repository": {
