@@ -1,5 +1,5 @@
 {
-  "name": "bmaplib.drawingManager",
+  "name": "bmaplib.drawingmanager",
   "version": "0.0.2",
   "description": "A library of Baidu Map JS API",
   "main": "index.js",
@@ -12,10 +12,10 @@
     "baidu-map",
     "drawingManager"
   ],
-  "author": "",
+  "author": "swliu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/swliu920322/bmaplib.drawingManager/issues"
   },
-  "homepage": "https://github.com/swliu920322/bmaplib.drawingManager#readme",
+  "homepage": "https://github.com/swliu920322/bmaplib.drawingManager#readme"
 }
